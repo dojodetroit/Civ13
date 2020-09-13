@@ -1,0 +1,12 @@
+<h2><small><span style = "font-size: 1.20em;"><b><span style = "font-size: 1.20em;">Civ13 [<span style = "color: #CD4C6C">OSE</span>]</span></b></span></small></h2>
+<i>
+<br>
+[BYOND] This server is running {server_version}, and you are running {client_version}.
+<hr>
+The current map is <b>{server_map}</b>.
+<h2>We are a new 24/7 server, feel free to have others join at byond://play.slsgaming.net:1714</h2>
+<small><b>Hosted on Ubuntu Linux 16.04 LTS</b><br>
+by <a href = "https://slsgaming.net">SLSGaming.net</a></small>
+</i>
+
+[<a href = "http://b.link/slsdiscord">Official Discord</a>]

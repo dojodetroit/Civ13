@@ -1,0 +1,8 @@
+<h2><small><span style = "font-size: 1.20em;">Welcome to <b><span style = "font-size: 1.20em;">Civ13 [<span style = "color: #CD4C6C">OpenSource Edition</span>]</span></b></span></small></h2>
+<i>
+The current map is <b>{server_map}</b>.
+<br>
+[BYOND] This server is running {server_version}, and you are running {client_version}.
+<hr>
+<h2>This server is running a custom build of <a href = "https://github.com/dojodetroit/civ13">civ13:ose</a></h2>
+</i>
